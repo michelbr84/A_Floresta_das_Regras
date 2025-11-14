@@ -1,0 +1,39 @@
+Personagem: Lila
+- Espécie: Raposa
+- Idade Aparente: Jovem adulta
+- Personalidade: Corajosa, esperta, líder natural, empática
+- Papel: Personagem principal, líder unificadora da floresta
+- Relação com outros: Amiga de todos, mediadora dos conflitos
+
+Personagem: Bruno
+- Espécie: Urso
+- Idade Aparente: Adulto
+- Personalidade: Comerciante preocupado, ambicioso, inicialmente egoísta
+- Papel: Representante dos interesses econômicos
+- Relação com outros: Em conflito com Lila, potencial parceiro para cooperação futura
+
+Personagem: Mimi
+- Espécie: Coruja
+- Idade Aparente: Idosa
+- Personalidade: Sábia, paciente, pacífica, defensora do meio ambiente
+- Papel: Guardião do equilíbrio ecológico
+- Relação com outros: Conselheira respeitada, apoia Lila
+
+Personagem: Tito
+- Espécie: Coelho
+- Idade Aparente: Adulto jovem
+- Personalidade: Observador, diplomata, equilibrado
+- Papel: Mediador e solucionador de conflitos
+- Relação com outros: Amigo de Lila, ligador das partes
+
+Personagem: Rosa
+- Espécie: Cervo
+- Idade Aparente: Adulta
+- Personalidade: Cuidadosa, protetora, maternal
+- Papel: Zeladora da floresta
+- Relação com outros: Acolhedora e inspiradora para os outros animais
+
+Ambiente: Floresta encantada
+- Localização: Floresta mágica com árvores antigas, rios cristalinos, campos floridos
+- Atmosfera: Harmonia natural, comunidade respeitosa, ambiente acolhedor e seguro
+- Características: Diversidade de animais vivendo em comunhão e cooperação.
