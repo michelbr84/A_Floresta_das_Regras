@@ -1,40 +1,40 @@
-# Master Book Planning Agent
+# Agente Mestre de Planejamento de Livro
 
-This repository contains the implementation of the Master Book Planning Agent — a senior AI editor and project coordinator responsible for creating a comprehensive Children’s Book Production Plan. It coordinates seven specialized AI Agent Tools to deliver complete and production-ready content for children’s book projects.
+Este repositório contém a implementação do Agente Mestre de Planejamento de Livro — um editor sênior de IA e coordenador de projeto responsável por criar um Plano Completo de Produção para livros infantis. Ele coordena sete ferramentas especializadas de Agentes de IA para fornecer conteúdo completo e pronto para produção de projetos de livros infantis.
 
-## Overview
+## Visão Geral
 
-The Master Book Planning Agent accepts a JSON input describing a children’s book project including the story idea, characters, themes, images, author details, and more. It processes this information to standardize, complete, and organize it for seven sub-agent tools:
+O Agente Mestre de Planejamento de Livro aceita uma entrada em formato JSON que descreve um projeto de livro infantil, incluindo a ideia da história, personagens, temas, imagens, detalhes do autor e muito mais. Ele processa essas informações para padronizar, completar e organizar para sete sub-agentes:
 
-1. **Story Plan** — Generates the general story plan, audience analysis, and value proposition.
-2. **Narrative Structure** — Defines the full story arc, key events, pacing, and emotional beats.
-3. **Character & Setting Guide** — Describes main and secondary characters and settings to guide writers and illustrators.
-4. **Storyboard / Visual Draft** — Details page-by-page visual flow and illustration prompts.
-5. **Manuscript** — Produces the complete narrative text divided by pages, ready for editorial review.
-6. **Editorial & Production Plan** — Outlines timelines, responsibilities, budgets, publishing strategies, and marketing.
-7. **Copyright Registration** — Prepares a detailed copyright registration document ensuring legal protection.
+1. **Plano da História** — Gera o plano geral da história, análise do público e proposta de valor.
+2. **Estrutura Narrativa** — Define o arco completo da história, eventos-chave, ritmo e momentos emocionais.
+3. **Guia de Personagens e Cenários** — Descreve personagens principais e secundários e cenários para guiar escritores e ilustradores.
+4. **Storyboard / Rascunho Visual** — Detalha o fluxo visual página por página e sugestões de ilustrações.
+5. **Manuscrito** — Produz o texto completo da narrativa dividido por páginas, pronto para revisão editorial.
+6. **Plano Editorial e de Produção** — Descreve cronogramas, responsabilidades, orçamentos, estratégias de publicação e marketing.
+7. **Registro de Direitos Autorais** — Prepara um documento detalhado para registro de direitos autorais garantindo proteção legal.
 
-## Features
+## Funcionalidades
 
-- Harmonizes story elements across all documents to maintain consistency.
-- Infers missing narrative details logically from the context.
-- Maintains a warm, child-friendly, emotional, and clear storytelling tone.
-- Handles image and author metadata alongside story content.
+- Harmoniza elementos da história em todos os documentos para manter consistência.
+- Inferência lógica de detalhes narrativos faltantes com base no contexto.
+- Mantém um tom de narrativa quente, amigável para crianças, emocional e claro.
+- Gerencia imagens e metadados do autor junto com o conteúdo da história.
 
-## Usage
+## Uso
 
-To use the Master Book Planning Agent, provide your children’s book data in JSON format including fields such as `title`, `idea`, `theme`, `characters`, `age_range`, `author`, `language`, `moral`, `images`, and more.
+Para usar o Agente Mestre de Planejamento de Livro, forneça os dados do seu livro infantil em formato JSON incluindo campos como `titulo`, `ideia`, `tema`, `personagens`, `faixa_etaria`, `autor`, `idioma`, `moral`, `imagens` e outros.
 
-The agent parses this input, organizes the data, infers any missing parts, and outputs seven structured content blocks ready for each specialized AI sub-agent.
+O agente analisa esta entrada, organiza os dados, infere quaisquer partes faltantes e gera sete blocos estruturados de conteúdo prontos para cada sub-agente de IA especializado.
 
-## Contribution
+## Contribuição
 
-Contributions are welcome! Please fork and submit pull requests following the project’s coding and documentation standards.
+Contribuições são bem-vindas! Por favor, faça um fork e envie pull requests seguindo os padrões de codificação e documentação do projeto.
 
-## License
+## Licença
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para detalhes.
 
-## Contact
+## Contato
 
-For questions or support, please open an issue or contact the maintainer at [email@example.com].
+Para dúvidas ou suporte, abra uma issue ou contate o mantenedor em [email@exemplo.com].
